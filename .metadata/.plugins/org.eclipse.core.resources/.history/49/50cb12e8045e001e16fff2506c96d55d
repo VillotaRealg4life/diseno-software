@@ -1,0 +1,9 @@
+package herenciaAnimales;
+
+public class AnimalHerencia {
+
+	public AnimalHerencia() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

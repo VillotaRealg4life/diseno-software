@@ -1,0 +1,9 @@
+package herenciaDireccion;
+
+public class Nombre {
+
+	public Nombre() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

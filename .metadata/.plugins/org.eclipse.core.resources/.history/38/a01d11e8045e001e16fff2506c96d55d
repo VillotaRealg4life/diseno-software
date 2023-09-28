@@ -1,0 +1,9 @@
+package herenciaAnimales;
+
+public class Mamma1 {
+
+	public Mamma1() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,9 @@
+package herenciaPersona;
+
+public class Studiante {
+
+	public Studiante() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
