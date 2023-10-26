@@ -1,9 +1,16 @@
 package herenciaPublicacion;
 
-public class Disco {
+class Disco extends Publicacion {
+    private float duracionEnMinutos;
 
-	public Disco() {
-		// TODO Auto-generated constructor stub
-	}
+    public Disco(String titulo, float precio, float duracionEnMinutos) {
+        super(titulo, precio);
+        this.duracionEnMinutos = duracionEnMinutos;
+    }
 
+    @Override
+    public void mostrar() {
+        super.mostrar();
+        System.out.println("Duración en Minutos: " + duracionEnMinutos);
+    }
 }

@@ -1,9 +1,0 @@
-package herenciaCilindroH;
-
-public class CilindroHueco {
-
-	public CilindroHueco() {
-		// TODO Auto-generated constructor stub
-	}
-
-}

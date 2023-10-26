@@ -1,8 +1,0 @@
-package ejerciciocuent;
- 
-public class Cuenta {
-	private String id; 
-	private String name; 
-	private int balance = 0; 
-	
-}

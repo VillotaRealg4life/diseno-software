@@ -1,9 +1,0 @@
-package herenciaCirculo;
-
-public class Cilindro {
-
-	public Cilindro() {
-		// TODO Auto-generated constructor stub
-	}
-
-}
